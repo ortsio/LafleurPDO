@@ -1,0 +1,14 @@
+PDO en cours
+
+FAIT
+Ajouter
+Affichage des erreurs, du succes
+Identifier
+Supprimer
+Modifier
+
+
+RESTE A FAIRE
+inscrire
+
+

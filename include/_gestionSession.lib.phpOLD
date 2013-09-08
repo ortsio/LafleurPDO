@@ -1,0 +1,17 @@
+<?php
+/** 
+ * Regroupe les fonctions de gestion d'une session utilisateur.
+ * @package default
+ * @todo  RAS
+ */
+
+/** 
+ * Démarre ou poursuit une session.                     
+ *
+ * @return void
+ */
+function initSession() {
+    session_start();
+}
+
+?>
